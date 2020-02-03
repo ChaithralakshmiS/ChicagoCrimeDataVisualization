@@ -1,0 +1,26 @@
+A. Bootstrap templates for dashboard (https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/):
+  1) https://github.com/ColorlibHQ/gentelella
+  2) https://github.com/puikinsh/Adminator-admin-dashboard
+  3) https://github.com/puikinsh/CoolAdmin
+B. Bootstrap templates for websites (https://colorlib.com/wp/free-bootstrap-templates/)
+  1) https://colorlib.com/wp/templates/
+  2) https://bootstrapious.com/free-templates
+    i. https://bootstrapious.com/p/bubbly-admin-template
+
+  3) 
+
+C. Free data visualization tools
+  1) https://blog.capterra.com/free-and-open-source-data-visualization-tools/
+  2)
+D. Misc. Resources
+  1) How to create amazing dashboards: https://www.bootstrapdash.com/create-amazing-dashboards/
+  2) best data visualization websites: https://www.awwwards.com/websites/data-visualization/
+  3) more examples of charts and graphs for data visualization: https://www.awwwards.com/charts-and-graphs-data-visualization-in-web-design.html
+  4)
+E. Google Places API ( how to find the closest police station to an area code for instance )
+  1) https://stackoverflow.com/questions/17280787/google-maps-api-getting-closest-points-to-zipcode
+  2) https://stackoverflow.com/questions/12279532/find-a-police-station-nearest-to-a-geopoint-in-android
+  3) https://stackoverflow.com/questions/18722477/how-to-find-nearby-hospitals-using-google-map-api-and-javascript
+    -> place types: https://developers.google.com/places/supported_types
+  4) https://stackoverflow.com/questions/14343965/google-places-library-without-map
+  5) https://developers.google.com/maps/documentation/javascript/examples/place-search

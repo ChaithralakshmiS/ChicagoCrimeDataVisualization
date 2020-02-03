@@ -1,0 +1,22 @@
+{
+  "name": "learn1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "debug": "^2.6.9",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "jade": "^1.11.0",
+    "line-reader": "^0.4.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.19",
+    "nodeunit": "^0.11.2",
+    "swig": "^1.4.2"
+  }
+}
+
